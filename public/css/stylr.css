@@ -1,0 +1,42 @@
+
+.nav1
+{
+    padding: 1px;
+    justify-content:space-around;
+    display:flex;
+
+}
+.img1{
+    width: 80px;
+    height: 80px;
+}
+.servi{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+
+
+  div.absolute {
+    top: 125px;
+   left: 50px;
+    width: 200px;
+    height: 100px;
+
+
+  }
+.navbar{
+    display: none;
+}
+@media screen and (max-width: 550px) {
+    .navbar{
+        display: block;
+
+    }
+    .nav1{
+        display:none;
+    }
+}
