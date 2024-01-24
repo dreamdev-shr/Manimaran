@@ -18,7 +18,10 @@
     padding: 20px;
 }
 
-
+.nav-item:hover{
+    background: white;
+    ;
+}
 
   div.absolute {
     top: 125px;
