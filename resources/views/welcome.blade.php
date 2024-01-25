@@ -169,7 +169,7 @@
 
 <hr class="featurette-divider m-0 ">
 
-<div class="row featurette" style="background-color: rgb(217, 218, 235);">
+<div class="row p-0 m-0 featurette" style="background-color: rgb(217, 218, 235);">
   <div class="col-md-5 order-md-2 m-3">
       <img src="{{asset('imge/pexels-deane-bayas-11960288.jpg')}}" alt="" class="img object-fit-cover w-100 h-100">
   </div>
