@@ -103,7 +103,7 @@
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
     </div>
-    <div class="carousel-inner">
+    <div class="carousel-inner img-fluid">
         <div class="carousel-item active">
             <img src="{{asset('imge/pexels-louis-gys-12040995.jpg')}}" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
@@ -167,10 +167,10 @@
   </div>
 </div>
 
-<hr class="featurette-divider m-0 ">
+<hr class="featurette-divider m-0 img-fluid ">
 
 <div class="row p-0 m-0 featurette" style="background-color: rgb(217, 218, 235);">
-  <div class="col-md-5 order-md-2 m-3">
+  <div class="col-md-5 order-md-2 img-fluid ">
       <img src="{{asset('imge/pexels-deane-bayas-11960288.jpg')}}" alt="" class="img object-fit-cover w-100 h-100">
   </div>
   <div class="col-md-7 order-md-2 text-center ">
